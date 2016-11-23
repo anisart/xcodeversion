@@ -6,7 +6,7 @@
 //  Copyright © 2016 Maxim Sofronov. All rights reserved.
 //
 
-// test change 7
+// test change 8
 
 #import <UIKit/UIKit.h>
 #import "AppDelegate.h"
